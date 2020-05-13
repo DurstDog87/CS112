@@ -1,0 +1,20 @@
+/home/cs/112/proj/09/randomInts01.txt generates tree height: 47 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts02.txt generates tree height: 49 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts03.txt generates tree height: 47 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts04.txt generates tree height: 51 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts05.txt generates tree height: 48 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts06.txt generates tree height: 46 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts07.txt generates tree height: 47 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts08.txt generates tree height: 51 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts09.txt generates tree height: 49 and contains 1 duplicate(s)!
+
+/home/cs/112/proj/09/randomInts10.txt generates tree height: 49 and contains 1 duplicate(s)!
+
